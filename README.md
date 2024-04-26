@@ -39,4 +39,4 @@ Dataset terdiri dari 15854 data properti yang terdaftar pada AirBNB, dengan 13 v
 | 13. | **number_of_reviews_ltm** | Jumlah ulasan yang dimiliki listingan (dalam 12 bulan terakhir). |
 
 ## Dashboard
-https://public.tableau.com/app/profile/muhamad.cahyo.wicaksono/viz/AirbnbListingBangkok/
+https://public.tableau.com/app/profile/muhamad.cahyo.wicaksono/viz/AirbnbListingBangkok/DashboardforHost
